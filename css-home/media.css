@@ -1,0 +1,25 @@
+/* @media (max-width:407px){
+    main h3 {
+        font-size: 22px;
+    }
+} */
+
+@media(max-width:575px){
+    footer .pl {
+        display: flex;
+        justify-content: center;
+        padding-top: 44px;
+        font-size: 15px;
+        color: #bcbcbc;
+    }
+}
+
+@media(max-width:767px){
+    footer .test{
+        margin-top: 47px;
+    }
+    .text-center {
+        padding-top: 30px;
+        text-align: center !important;
+    }
+}

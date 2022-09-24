@@ -1,0 +1,38 @@
+@media (max-width: 991px){
+     .navbar-collapse {
+          flex-basis: 100%;
+          flex-grow: 1;
+          padding-left: 300px;
+          align-items: center;
+      }
+}
+
+@media (max-width: 576px){
+     footer .pl{
+         margin-top: 12px;
+     }
+ }
+ 
+ @media (max-width: 540px){
+    .navbar-collapse {
+         padding-left: 221px;
+     }
+}
+ 
+ @media (max-width: 414px){
+    .navbar-collapse {
+         padding-left: 157px;
+     }
+}
+ 
+ @media (max-width: 375px){
+    .navbar-collapse {
+         padding-left: 124px;
+     }
+}
+
+@media (max-width: 280px){
+        .navbar-collapse {
+         padding-left: 85px;
+     }
+}
